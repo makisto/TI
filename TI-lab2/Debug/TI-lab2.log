@@ -1,0 +1,4 @@
+﻿  TI-lab2.cpp
+C:\Users\user\source\repos\TI-lab2\TI-lab2.cpp(127,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\TI-lab2\TI-lab2.cpp(153,23): warning C4018: <: несоответствие типов со знаком и без знака
+  TI-lab2.vcxproj -> C:\Users\user\source\repos\TI-lab2\Debug\TI-lab2.exe

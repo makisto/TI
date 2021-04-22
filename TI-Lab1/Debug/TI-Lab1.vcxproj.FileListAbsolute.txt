@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\TI-Lab1\Debug\TI-Lab1.exe
+C:\Users\user\source\repos\TI-Lab1\Debug\TI-Lab1.pdb
